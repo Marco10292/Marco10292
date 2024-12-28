@@ -1,16 +1,19 @@
-## Hi there 👋
+## 🙋🏻‍♀️ Introducing myself
+Hello, I'm Marco. Data Analyst with expertise in data analysis and reporting.
 
-<!--
-**Marco10292/Marco10292** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Querying data using SQL and Python.
+Machine Learning with Python.
+Generate reports and perform ad-hoc data analysis using SQL.
+Developing dashboards on Tableau and Power BI.
+Data analysis and reporting using Excel.
 
-Here are some ideas to get you started:
+📚 Projects
+Welcome to my portfolio, where I showcase my projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tools
+Language: SQL, Python
+Database: MySQL
+Visualization: Tableau, Power BI
+
+👋🏻 Connect with Me
+[Linkedin] (https://www.linkedin.com/in/marco-gamberini-a72a27225/)
