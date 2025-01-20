@@ -1,6 +1,9 @@
 ## 🙋🏻‍♀️ Introducing myself
 Hello, I'm Marco. Data Analyst with expertise in data analysis and reporting.
 
+![Black and Beige Modern Handwriting Professional Business LinkedIn Banner](https://github.com/user-attachments/assets/ff1fafe9-59da-4a08-ad97-c657002f4c24)
+
+
 Querying data using SQL and Python.
 Machine Learning with Python.
 Generate reports and perform ad-hoc data analysis using SQL.
